@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-11T14:54:58Z" name="Suite" finished-at="2023-09-11T14:55:36Z" duration-ms="38145">
+    <groups>
+    </groups>
+    <test started-at="2023-09-11T14:54:58Z" name="Test" finished-at="2023-09-11T14:55:36Z" duration-ms="38145">
+      <class name="script.DemoTest">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:script.DemoTest@491666ad]" started-at="2023-09-11T14:54:58Z" name="preCondition" finished-at="2023-09-11T14:55:36Z" duration-ms="38017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="testA()[pri:0, instance:script.DemoTest@491666ad]" started-at="2023-09-11T14:55:36Z" name="testA" finished-at="2023-09-11T14:55:36Z" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:script.DemoTest@491666ad]" started-at="2023-09-11T14:55:36Z" name="postCondition" finished-at="2023-09-11T14:55:36Z" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- script.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
