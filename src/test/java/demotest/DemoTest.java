@@ -1,4 +1,4 @@
-package script;
+package demotest;
 
 import org.testng.Assert;
 import org.testng.Reporter;

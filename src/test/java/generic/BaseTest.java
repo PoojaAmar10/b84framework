@@ -27,9 +27,11 @@ public class BaseTest {
 	public final String d_grid="no";
 	public final String d_gridurl="https://oauth-poojasgowda36-1f4a2:b3fde840-59b0-4c63-8eb3-9d769457ee8d@ondemand.eu-central-1.saucelabs.com:443/wd/hub";
 	public final String d_browser="chrome";
-	public final String d_appurl="http://www.google.com";	
+	public final String d_appurl="https://demo.actitime.com";	
 	public final String d_ito="10";
 	public final String d_eto="10";
+	public final String xl_path="./data/actiTIME.xlsx";
+	
 	
 	public WebDriver driver;
 	public WebDriverWait wait;

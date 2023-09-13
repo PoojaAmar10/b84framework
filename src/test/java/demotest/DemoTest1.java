@@ -1,4 +1,4 @@
-package script;
+package demotest;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
